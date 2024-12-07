@@ -1,4 +1,4 @@
-# asus-z390f-hack
+# asus z390f hack
 hackintosh build
 
 MacOS 10.14.6
